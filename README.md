@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-¡Hola a todos! Soy Saúl Kevin Ochoa Salazar un apasionado de la ciencia de datos y he estado trabajando como autodidacta en este campo durante un tiempo. 
-Me encanta trabajar con datos y utilizar técnicas de aprendizaje automático para resolver problemas complejos.
-
+¡Hola! Bienvenido a mi perfil de GitHub. Soy un apasionado de la ciencia de datos y el análisis empresarial, y he estado trabajando en estos campos como autodidacta durante algún tiempo. Me encanta trabajar con datos y utilizar técnicas de análisis para ayudar a las empresas a tomar decisiones informadas.
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
