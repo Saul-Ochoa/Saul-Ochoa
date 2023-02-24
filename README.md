@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-¡Hola a todos! Soy un apasionado de la ciencia de datos y he estado trabajando como autodidacta en este campo durante un tiempo. 
+¡Hola a todos! Soy Saúl Kevin Ochoa Salazar un apasionado de la ciencia de datos y he estado trabajando como autodidacta en este campo durante un tiempo. 
 Me encanta trabajar con datos y utilizar técnicas de aprendizaje automático para resolver problemas complejos.
 
 
