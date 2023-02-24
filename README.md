@@ -7,11 +7,6 @@ He adquirido habilidades en análisis de datos, limpieza de datos, visualizació
 En mi perfil de GitHub, puedes encontrar algunos de mis proyectos relacionados con la ciencia de datos y el análisis empresarial. Me gusta compartir mis proyectos y colaborar con otros entusiastas de la ciencia de datos para aprender juntos y mejorar mis habilidades.
 
 # **Encuéntrame en la web**
-
-
+Linkedin : http://lnnk.in/fcfk
  
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
