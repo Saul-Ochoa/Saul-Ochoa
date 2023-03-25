@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-¡Hola! Bienvenido a mi perfil de GitHub. Soy un apasionado de la ciencia de datos y el análisis empresarial, y he estado trabajando en estos campos como autodidacta durante algún tiempo. Me encanta trabajar con datos y utilizar técnicas de análisis para ayudar a las empresas a tomar decisiones informadas.
+* Hello! Welcome to my GitHub profile. I am passionate about data science and business analytics, and have been self-learning in these fields for some time. I enjoy working with data and using analytical techniques to help businesses make informed decisions.
 
-He adquirido habilidades en análisis de datos, limpieza de datos, visualización de datos, modelado estadístico y aprendizaje automático. Me gusta utilizar herramientas como Python, SQL y Tableau para trabajar con datos y presentar información de manera clara y efectiva.
+* I have acquired skills in data analysis, data cleansing, data visualization, statistical modeling, and machine learning. I enjoy utilizing tools such as Python, SQL, and Power Bi to work with data and present information in a clear and effective manner.
 
-En mi perfil de GitHub, puedes encontrar algunos de mis proyectos relacionados con la ciencia de datos y el análisis empresarial. Me gusta compartir mis proyectos y colaborar con otros entusiastas de la ciencia de datos para aprender juntos y mejorar mis habilidades.
+* On my GitHub profile, you can find some of my projects related to data science and business analytics. I enjoy sharing my projects and collaborating with other data science enthusiasts to learn together and improve my skills.
 
 # **Encuéntrame en la web**
 Linkedin : http://lnnk.in/fcfk
