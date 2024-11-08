@@ -1,3 +1,5 @@
+<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 ### Hi there 👋
 
 * Hello! Welcome to my GitHub profile. I am passionate about data science and business analytics, and have been self-learning in these fields for some time. I enjoy working with data and using analytical techniques to help businesses make informed decisions.
