@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Saúl Kevin Ochoa Salazar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### Hi there 👋
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 * Hello! Welcome to my GitHub profile. I am passionate about data science and business analytics, and have been self-learning in these fields for some time. I enjoy working with data and using analytical techniques to help businesses make informed decisions.
 
