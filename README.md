@@ -26,8 +26,9 @@ Hello! Welcome to my GitHub profile. I'm passionate about data science and busin
   <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </span>
 
-On my GitHub profile, you’ll find projects related to data science and business analytics. I'm always open to connecting with other data enthusiasts and collaborating on projects to learn and improve our skills together.
 
+
+On my GitHub profile, you’ll find projects related to data science and business analytics. I'm always open to connecting with other data enthusiasts and collaborating on projects to learn and improve our skills together.
 
 
 ## 🌐 Find Me Online
