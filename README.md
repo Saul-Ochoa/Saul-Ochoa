@@ -9,11 +9,9 @@
 * On my GitHub profile, you can find some of my projects related to data science and business analytics. I enjoy sharing my projects and collaborating with other data science enthusiasts to learn together and improve my skills.
 
 # **Encuéntrame en la web**
-Linkedin : https://www.linkedin.com/in/sa%C3%BAl-kevin-ochoa-salazar-a35538227/
 
 </div>
-
-<div align=center>
+<div align=left>
  <a href="https://www.linkedin.com/in/sa%C3%BAl-kevin-ochoa-salazar-a35538227/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 </div>
  
